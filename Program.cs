@@ -17,6 +17,7 @@ namespace HelloWorld
             Console.WriteLine(array[0,0]);
             Console.WriteLine(array[0,1]);
             Console.WriteLine(array[1,1]);
+            // getters and setters are useful for classes in C sharp
         }
         static void sayHi(string name) 
         {
